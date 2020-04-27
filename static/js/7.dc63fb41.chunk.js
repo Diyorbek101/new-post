@@ -1,0 +1,2 @@
+(this["webpackJsonpnew-post"]=this["webpackJsonpnew-post"]||[]).push([[7],{374:function(e,n,t){"use strict";t.r(n);var a=t(0),l=t.n(a),r=function(e){return l.a.createElement(l.a.Fragment,null,"hello Settings")};n.default=function(){return l.a.createElement(l.a.Fragment,null,l.a.createElement(r,null))}}}]);
+//# sourceMappingURL=7.dc63fb41.chunk.js.map
